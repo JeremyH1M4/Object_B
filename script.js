@@ -1,4 +1,4 @@
-'sue strict'
+'use strict'
 
 console.log("Hello, World!");
 
